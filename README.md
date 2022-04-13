@@ -1,2 +1,2 @@
 # Exercícios_Python
-Repositório de estudos.
+Repositório com exercícios, programas básicos e algumas funções úteis
